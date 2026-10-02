@@ -1,0 +1,6 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://dagshub.com/RafaelHeredia12/RETO_MA2003B.dvc
+    auth = basic
+    user = a01641323
